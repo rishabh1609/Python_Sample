@@ -1,0 +1,5 @@
+RUNNING='Running'
+COMPLETE = 'Complete'
+DB_CONNECTION_COUNT=5
+SUCCESS='Success'
+FAILURE='Fail'
