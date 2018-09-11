@@ -1,2 +1,2 @@
 # Python_Sample
-Sample Python Application
+Sample Python Application for adding two number
