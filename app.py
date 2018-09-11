@@ -30,6 +30,7 @@ class TestApplication(Resource):
             log_obj = TestLogging(cwd_new)
             logger = log_obj.logger
             logger.info(json_data)
+            logger.info("Done")
             output = int(A)+int(B)
             return output
         except Exception as e:
